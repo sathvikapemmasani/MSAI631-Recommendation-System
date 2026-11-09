@@ -1,0 +1,5 @@
+                          Model  Precision@10  Recall@10  Coverage  Diversity  ms/user
+          Popularity (baseline)        0.0955     0.0786    0.0039     0.9222   0.3186
+SAR item-item (original sample)        0.1430     0.1397    0.0377     0.8792   6.4790
+           Content TF-IDF (new)        0.0055     0.0050    0.1006     0.1216  10.4040
+     Hybrid + diversity (final)        0.1440     0.1399    0.0349     0.9007  20.6247
